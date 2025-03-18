@@ -1,2 +1,3 @@
 # ViT-PyTorch
-Paper replication of Vision Transformer (ViT) research paper and fine-tuning on custom dataset
+* Replicating Vision Transformer (ViT) Research Paper using PyTorch.
+* Fine-tuning pretrained ViT on custom dataset.
