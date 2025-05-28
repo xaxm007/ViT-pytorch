@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# Model
+pretrained_pizza_steak_sushi.pth
+
+# PDF
+ViT.pdf
+
+# try-scratch --in-progress
+scratch_ViT.ipynb
